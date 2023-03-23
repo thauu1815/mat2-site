@@ -2,4 +2,12 @@
     background-color:#9452FF ;
     color: black;
 }
+.cabecalho-imagem{
 
+    width: 20%;
+}
+.cabecalho{
+    background-color: #2D0076 ;
+    color: white;
+    display: flex;
+}
