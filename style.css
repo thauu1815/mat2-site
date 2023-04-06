@@ -3,8 +3,8 @@
     padding: 0;
 }
 .cabecalho {
-background-color: blue;
-color: mediumpurple;
+background-color: mediumblue;
+color: white;
 display: flex;
 justify-content: space-around;
 }
@@ -17,4 +17,21 @@ margin: 0 16px;
 justify-content: space-around;
 padding: 24px 0;
 font-size: 30px;
+}
+.escola-imagem{
+    width: 15%;
+}
+.escola{
+    background-image: linear-gradient(mediumblue,lightskyblue);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-conteudo{
+    width: 45%;
+}
+.escola-titulo{
+    padding: 24px 0;
 }
